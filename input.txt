@@ -1,0 +1,15 @@
+Apples 250 True
+Bananas 99 False
+Oranges 175 True
+Grapes 399 True
+Strawberries 299 False
+Carrots 125 False
+Tomatoes 249 True
+Cucumbers 75 True
+Potatoes 199 True
+Lettuce 150 False
+Onions 99 False
+Broccoli 175 False
+Peppers 199 False
+Spinach 225 True
+Avocados 179 True
